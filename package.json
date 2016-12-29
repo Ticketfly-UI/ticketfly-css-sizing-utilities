@@ -1,6 +1,6 @@
 {
   "name": "ticketfly-css-sizing-utilities",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Influence the size of elements with helpers for common size settings",
   "main": "index.css",
   "style": "index.css",
